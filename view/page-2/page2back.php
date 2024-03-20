@@ -26,7 +26,7 @@ function commanderVoiture($nom, $email, $modele, $couleur) {
 }
 
 
-$nom_client = "Jean Dupont";
+$nom_client = "Jean Dupon";
 $email_client = "jean.dupont@example.com";
 $modele_voiture = "Voiture modèle X";
 $couleur_voiture = "Bleu";
