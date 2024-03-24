@@ -1,7 +1,7 @@
 <?php
 
 $servername = "localhost1";
-$username = "votre_nom_utilisateur";
+$username = "utilisateur";
 $password = "votre_mot_de_passe";
 $dbname = "nom_de_votre_base_de_donnees";
 
